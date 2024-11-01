@@ -1,2 +1,3 @@
 "initial file" 
 "Feature added"
+"Feature2 added"
