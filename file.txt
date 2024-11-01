@@ -1,2 +1,3 @@
 "initial file" 
 "Functionality added"
+"Class added"
